@@ -15,7 +15,7 @@ Julio Perez is the owner of the JavaJam Coffee House, a gourmet coffee shop that
 
 ## Wireframe
 
-![wireframe](/javajam-coffee/wireframe.png)
+![wireframe](wireframe.png)
 
 ## You have three tasks in this case study:
 
