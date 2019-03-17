@@ -17,7 +17,7 @@ Julio Perez is the owner of the JavaJam Coffee House, a gourmet coffee shop that
 
 ![wireframe](wireframe.png)
 
-## You have three tasks in this case study:
+## Completed tasks:
 
 1. Create a folder for the JavaJam website.
 2. Create the Home page: index.html.
