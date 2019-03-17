@@ -11,7 +11,7 @@ Julio Perez is the owner of the JavaJam Coffee House, a gourmet coffee shop that
 
 ## Site Map
 
-![Site Map](/javajam-coffee/sitemap.png)
+![Site Map](sitemap.png)
 
 ## Wireframe
 
